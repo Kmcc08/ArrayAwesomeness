@@ -8,7 +8,7 @@ public class Sushi {
 //    public static void main(String[] args) {
 //
 //    }
-    public  printInfo(){
+    public void  printInfo(){
         System.out.println("type" + type);
         System.out.println("type" + ingredient);
         System.out.println("type" + price);
@@ -18,7 +18,7 @@ public class Sushi {
     }
 
 
-    }
+
 
     public Sushi(double Sprice){
         ingredient = "salmon, rice, seaweed";
@@ -30,4 +30,5 @@ public class Sushi {
 
 
     }
+
 }
