@@ -14,6 +14,7 @@ public class ArrayObjects {
             soosh[x] = new Sushi(Math.random() * 250);
         }
         printArray();
+        changeSizes();
 
     }
 
@@ -35,4 +36,11 @@ public class ArrayObjects {
 
 
     }
+
+    public void totalSushi(){
+
+        for(int x = 0;)
+
+    }
+
 }
